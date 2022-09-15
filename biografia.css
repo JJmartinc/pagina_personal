@@ -1,0 +1,18 @@
+h2 {
+    font-family:'Space Mono', monospace;
+    color:rgb(0, 0, 0)
+}
+
+p {
+    font-family: 'Space Mono', monospace;
+    color:rgb(215, 145, 5)
+}
+
+#cocinero {
+    color:blue
+}
+
+#escuela {
+    color:red
+}
+

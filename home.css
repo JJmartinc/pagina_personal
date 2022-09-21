@@ -1,0 +1,12 @@
+body {
+    background-image:url("/img/Puesta\ de\ sol.jpg");
+}
+
+div {
+    background-color: rgba(0, 77, 113); 
+    /* text-align: center; */
+    width: 25%;
+    margin-top: 20%;
+    margin-left: 40%;
+    
+}

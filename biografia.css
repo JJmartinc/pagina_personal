@@ -1,14 +1,26 @@
+ body{
+    background-image: url("img/9870.jpg")
+}
+
+div{
+    background-color:rgba(119, 119, 119, 0.5);
+}
+
+
 h2 {
+    font-size: 50px;
     font-family:'Space Mono', monospace;
     color:rgb(0, 0, 0)
 }
 
 p {
+    font-size: 26px;
     font-family: 'Space Mono', monospace;
-    color:rgb(215, 145, 5)
+    color:rgb(255, 255, 255)
+      
 }
 
-#cocinero {
+p #cocinero {
     color:blue
 }
 
@@ -16,3 +28,19 @@ p {
     color:red
 }
 
+h2 {
+    text-align: center;
+    margin:auto;
+}
+
+p {
+    text-align: center;
+}
+
+div {
+    width:45%;border:10px line rgb(4, 4, 4);padding:10px;margin:auto;
+}
+
+header {
+    background-image: url(img/fondopagina.jpg);
+}
